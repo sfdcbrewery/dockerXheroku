@@ -1,0 +1,23 @@
+{
+  "name": "dockerxheroku",
+  "version": "1.0.0",
+  "description": "Dockerizing a Node JS app and push it to Heorku.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker",
+    "Sri",
+    "Kolgani",
+    "Sfdc",
+    "Brewery",
+    "Heroku",
+    "Salesforce"
+  ],
+  "author": "Sri Kolagani for SFDCBrewery",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
